@@ -16,29 +16,29 @@ It works very well, but there is one area for improvement: the tedious process t
 create a .Net MAUI project and add assets the instructor have published.
 ### File directory:
 Properties:
-  launchSettings
++ launchSettings
 Dependencies:
-  net7.0-android
-  net7.0-ios
-  net7.0-maccatalyst
-  net7.0-windows10.0.19041.0
++ net7.0-android
++ net7.0-ios
++ net7.0-maccatalyst
++ net7.0-windows10.0.19041.0
 Platforms:
-  Android
-  iOS
-  MacCatalyst
-  Tizen
-  WIndows
++ Android
++ iOS
++ MacCatalyst
++ Tizen
++ WIndows
 Resources:
-  AppIcon
-  Fonts
-  Images
-  Raw
-  Splash
-  Styles
++ AppIcon
++ Fonts
++ Images
++ Raw
++ Splash
++ Styles
 App.xaml
-  App.xaml.cs
++ App.xaml.cs
 MainPage.xaml
-  MainPage.xaml.cs
++ MainPage.xaml.cs
 MauiProgram.cs
 ## 05.Create Model Classes
 ### Steps to create a Model Class:
