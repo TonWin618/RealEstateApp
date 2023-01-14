@@ -18,17 +18,20 @@ create a .Net MAUI project and add assets the instructor have published.
 **File directory:**
 Properties:
 + launchSettings
+
 Dependencies:
 + net7.0-android
 + net7.0-ios
 + net7.0-maccatalyst
 + net7.0-windows10.0.19041.0
+
 Platforms:
 + Android
 + iOS
 + MacCatalyst
 + Tizen
 + WIndows
+
 Resources:
 + AppIcon
 + Fonts
@@ -36,10 +39,13 @@ Resources:
 + Raw
 + Splash
 + Styles
+
 App.xaml
 + App.xaml.cs
+
 MainPage.xaml
 + MainPage.xaml.cs
+
 MauiProgram.cs
 
 ## 05.Create Model Classes
