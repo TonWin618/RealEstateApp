@@ -1,4 +1,3 @@
-#CSharp #MAUI #dotNET  #frontend
 This is a project I made following the asfend's course. But some of the features didn't work well on Android, so I made a few changes to make it work as I expect. Below are my study notes.  
 
 ## 01.Intruduction
